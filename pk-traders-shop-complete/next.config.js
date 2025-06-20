@@ -4,3 +4,4 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+npm install --save-dev @types/react @types/node
